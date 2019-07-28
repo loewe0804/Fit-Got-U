@@ -5,28 +5,28 @@
 
 
 ### 1. Environment
-
->>	Android Studio 3.4  
->>	Android SDK 28  
->>	Android NDK 16  
->>	Python3  
->>	TensorFlow(1.4)  
->>	MACE(0.9.0, mac os 10.x이상 필요)  
->>	OpenCV 3.4.1  
->>	삼성 갤럭시 s9+(SM-G965x) - Android Version 8(Oreo)  
->>	NodeJS 8  
->>	JAVA 8  
->>	AWS EC2  
->>	Apache 2.4  
->>	MYSQL 5.5  
->>	PHP 7.2  
->>	Firebase SDK 17  
->>	KAKAO SDK 1.17.0  
-
-
+code
+>	Android Studio 3.4  
+>	Android SDK 28  
+>	Android NDK 16  
+>	Python3  
+>	TensorFlow(1.4)  
+>	MACE(0.9.0, mac os 10.x이상 필요)  
+>	OpenCV 3.4.1  
+>	삼성 갤럭시 s9+(SM-G965x) - Android Version 8(Oreo)  
+>	NodeJS 8  
+>	JAVA 8  
+>	AWS EC2  
+>	Apache 2.4  
+>	MYSQL 5.5  
+>	PHP 7.2  
+>	Firebase SDK 17  
+>	KAKAO SDK 1.17.0  
 
 
 
+
+## 2. License
 
 
 
