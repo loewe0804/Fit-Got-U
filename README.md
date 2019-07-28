@@ -23,7 +23,7 @@
 >	KAKAO SDK 1.17.0  
 
 ## 2. Installation
-Download and build using Android Studio
+Import yo \'Android Studio\' and run in smart phone(only android)
 
 ## 3. Pose Estimation 
 https://github.com/edvardHua/PoseEstimationForMobile/
